@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"time" // Добавили эту строку!
+	"time" // Добавила папку на мак
 )
 
 func main() {
