@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Моя первая программа на Go!")
+	fmt.Println("проверка!")
 	fmt.Println("Сейчас время:", time.Now()) // Теперь time не подсвечивается красным
 }
